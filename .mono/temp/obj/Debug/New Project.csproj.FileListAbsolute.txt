@@ -1,0 +1,13 @@
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.csproj.AssemblyReference.cache
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.AssemblyInfoInputs.cache
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.AssemblyInfo.cs
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.csproj.CoreCompileInputs.cache
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\bin\Debug\New Project.dll
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\bin\Debug\New Project.pdb
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.dll
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.pdb
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\bin\Debug\GoRogue.dll
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\bin\Debug\Priority Queue.dll
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\bin\Debug\Troschuetz.Random.dll
+D:\Downloads\Godot_v3.5.1-stable_mono_win64\NewProject\.mono\temp\obj\Debug\New Project.csproj.CopyComplete

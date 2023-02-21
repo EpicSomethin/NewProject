@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "GoRogue/2.6.4": {
+        "type": "package",
+        "dependencies": {
+          "OptimizedPriorityQueue": "4.2.0",
+          "Troschuetz.Random": "4.4.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/GoRogue.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/GoRogue.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "OptimizedPriorityQueue/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Priority Queue.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/Priority Queue.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "SadConsole/9.2.2": {
+        "type": "package"
+      },
+      "Troschuetz.Random/4.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "netstandard"
+        ],
+        "compile": {
+          "lib/net472/Troschuetz.Random.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net472/Troschuetz.Random.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoRogue/2.6.4": {
+      "sha512": "nyClW1RMfwjr+tKMU+QXDDAsXqXEvfZW+whSB2KrvHIAeVKlwN+hoYAmmnpGvXLAmV4X32RrE+IcOvkQkslW9Q==",
+      "type": "package",
+      "path": "gorogue/2.6.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gorogue.2.6.4.nupkg.sha512",
+        "gorogue.nuspec",
+        "lib/netstandard2.0/GoRogue.dll",
+        "lib/netstandard2.0/GoRogue.xml",
+        "readme.txt"
+      ]
+    },
+    "OptimizedPriorityQueue/4.2.0": {
+      "sha512": "/Sr/OfCFnff7zFe6HoDyWRU8pEvJbOCE9ZjFCSH0EcfETjgvZJ2kUoqlTgVR7cgTPexOGhNATdBKQigqbYn43w==",
+      "type": "package",
+      "path": "optimizedpriorityqueue/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Priority Queue.dll",
+        "lib/net20/Priority Queue.pdb",
+        "lib/net20/Priority Queue.xml",
+        "lib/net35-unity full v3.5/Priority Queue.dll",
+        "lib/net35-unity full v3.5/Priority Queue.pdb",
+        "lib/net35-unity full v3.5/Priority Queue.xml",
+        "lib/net35-unity subset v3.5/Priority Queue.dll",
+        "lib/net35-unity subset v3.5/Priority Queue.pdb",
+        "lib/net35-unity subset v3.5/Priority Queue.xml",
+        "lib/net45/Priority Queue.dll",
+        "lib/net45/Priority Queue.pdb",
+        "lib/net45/Priority Queue.xml",
+        "lib/netstandard1.0/Priority Queue.dll",
+        "lib/netstandard1.0/Priority Queue.pdb",
+        "lib/netstandard1.0/Priority Queue.xml",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.dll",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.pdb",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.xml",
+        "optimizedpriorityqueue.4.2.0.nupkg.sha512",
+        "optimizedpriorityqueue.nuspec"
+      ]
+    },
+    "SadConsole/9.2.2": {
+      "sha512": "W3wCE4g73BYOGYDEaFMWi1dzkQQG8SYOEw6dkSdb0okPbW7d92lIUVCBTM6ZxrNgRjPQK0GKW0blRM6ztWQWMg==",
+      "type": "package",
+      "path": "sadconsole/9.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net5.0/SadConsole.dll",
+        "lib/net5.0/SadConsole.xml",
+        "lib/net6.0/SadConsole.dll",
+        "lib/net6.0/SadConsole.xml",
+        "lib/netcoreapp3.1/SadConsole.dll",
+        "lib/netcoreapp3.1/SadConsole.xml",
+        "lib/netstandard2.1/SadConsole.dll",
+        "lib/netstandard2.1/SadConsole.xml",
+        "nugeticon.png",
+        "readme.txt",
+        "sadconsole.9.2.2.nupkg.sha512",
+        "sadconsole.nuspec"
+      ]
+    },
+    "Troschuetz.Random/4.4.0": {
+      "sha512": "SIESLPNQUIo8FkfeFaaJZcE0/r+Vg6nicacYDvZB+rTOl4VTKK5lEqCW2SvkLLaUV11jnCtna73LQ7iXAHumGA==",
+      "type": "package",
+      "path": "troschuetz.random/4.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net35/Troschuetz.Random.dll",
+        "lib/net35/Troschuetz.Random.pdb",
+        "lib/net35/Troschuetz.Random.xml",
+        "lib/net40/Troschuetz.Random.dll",
+        "lib/net40/Troschuetz.Random.pdb",
+        "lib/net40/Troschuetz.Random.xml",
+        "lib/net45/Troschuetz.Random.dll",
+        "lib/net45/Troschuetz.Random.pdb",
+        "lib/net45/Troschuetz.Random.xml",
+        "lib/net461/Troschuetz.Random.dll",
+        "lib/net461/Troschuetz.Random.pdb",
+        "lib/net461/Troschuetz.Random.xml",
+        "lib/net472/Troschuetz.Random.dll",
+        "lib/net472/Troschuetz.Random.pdb",
+        "lib/net472/Troschuetz.Random.xml",
+        "lib/netstandard1.0/Troschuetz.Random.dll",
+        "lib/netstandard1.0/Troschuetz.Random.pdb",
+        "lib/netstandard1.0/Troschuetz.Random.xml",
+        "lib/netstandard2.0/Troschuetz.Random.dll",
+        "lib/netstandard2.0/Troschuetz.Random.pdb",
+        "lib/netstandard2.0/Troschuetz.Random.xml",
+        "lib/netstandard2.1/Troschuetz.Random.dll",
+        "lib/netstandard2.1/Troschuetz.Random.pdb",
+        "lib/netstandard2.1/Troschuetz.Random.xml",
+        "troschuetz.random.4.4.0.nupkg.sha512",
+        "troschuetz.random.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "GoRogue >= 2.6.4",
+      "SadConsole >= 9.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Downloads\\Godot_v3.5.1-stable_mono_win64\\NewProject\\New Project.csproj",
+      "projectName": "New Project",
+      "projectPath": "D:\\Downloads\\Godot_v3.5.1-stable_mono_win64\\NewProject\\New Project.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Downloads\\Godot_v3.5.1-stable_mono_win64\\NewProject\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "GoRogue": {
+            "target": "Package",
+            "version": "[2.6.4, )"
+          },
+          "SadConsole": {
+            "target": "Package",
+            "version": "[9.2.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package SadConsole 9.2.2 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package SadConsole 9.2.2 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - net6.0 (.NETCoreApp,Version=v6.0)\r\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "SadConsole",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}

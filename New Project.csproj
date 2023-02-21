@@ -1,0 +1,12 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>NewProject</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SadConsole" Version="9.2.2" />
+    <PackageReference Include="GoRogue" Version="2.6.4" />
+  </ItemGroup>
+</Project>
+<TargetFramework>netstandard2.1</TargetFramework>
+<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ity/6RpEMP3HYiHrmeDs3U2G2RyzXRRXWnDLFVwCjielzothvq+mAWZcDkg3fgrjjul7/ehx1JAg8/QAECjdcQ==",
+  "success": false,
+  "projectFilePath": "D:\\Downloads\\Godot_v3.5.1-stable_mono_win64\\NewProject\\New Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\gorogue\\2.6.4\\gorogue.2.6.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\optimizedpriorityqueue\\4.2.0\\optimizedpriorityqueue.4.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sadconsole\\9.2.2\\sadconsole.9.2.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\troschuetz.random\\4.4.0\\troschuetz.random.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package SadConsole 9.2.2 is not compatible with net472 (.NETFramework,Version=v4.7.2). Package SadConsole 9.2.2 supports:\r\n  - net5.0 (.NETCoreApp,Version=v5.0)\r\n  - net6.0 (.NETCoreApp,Version=v6.0)\r\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)\r\n  - netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "SadConsole",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
